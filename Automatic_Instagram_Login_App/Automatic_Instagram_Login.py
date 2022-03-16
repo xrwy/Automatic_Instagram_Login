@@ -1,8 +1,6 @@
 import time
 from selenium import webdriver
 
-
-
 # Assigning the browser variable with chromedriver of Chrome.
 # Any other browser and its respective webdriver
 # like geckodriver for Mozilla Firefox can be used
